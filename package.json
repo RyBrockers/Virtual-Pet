@@ -1,0 +1,25 @@
+{
+  "name": "virtual-pet",
+  "version": "1.0.0",
+  "description": "virtual-pet challenge for Manchester Codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyBrockers/virtual-pet.git"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "Ryan Brockley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyBrockers/virtual-pet/issues"
+  },
+  "homepage": "https://github.com/RyBrockers/virtual-pet#readme",
+  "dependencies": {
+    "jest": "^24.3.1"
+  }
+}
