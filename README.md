@@ -6,7 +6,7 @@ JavaScript challenge for Manchester Codes Academy. Using jest to unit test the c
 
 How to download/clone and start the repo
 
-Cd into project folder
+cd into project folder
 
 ```
 cd Desktop/Projects/virtual-pet
@@ -15,8 +15,9 @@ cd Desktop/Projects/virtual-pet
 
 cd into the project folder. 
 
-run npm test from the terminal
-
+```
+run npm test 
+```
 
 ## Built With
 
