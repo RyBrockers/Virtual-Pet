@@ -37,3 +37,12 @@ describe('walk', () => {
   })
 
 })
+
+describe('feed', () => {
+  it('decreases the hunger by 3', () => {
+    const pet = new Pet('Spike');
+    pet.feed();
+    expect(pet.hunger).toEqual(0);
+  })
+
+})
