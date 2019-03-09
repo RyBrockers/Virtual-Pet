@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/RyBrockers/virtual-pet#readme",
   "dependencies": {
+    "eslint": "^5.15.1",
     "jest": "^24.3.1"
   }
 }
